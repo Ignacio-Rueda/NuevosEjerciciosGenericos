@@ -1,4 +1,4 @@
-package generico_1;
+package Alumno;
 
 import java.util.Collections;
 import java.util.HashSet;
@@ -9,7 +9,7 @@ import java.util.ListIterator;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Test {
+public class TestAlumno {
 
 	public static void main(String args[]) {
 		final int NUMERO_ALUMNOS = 9;

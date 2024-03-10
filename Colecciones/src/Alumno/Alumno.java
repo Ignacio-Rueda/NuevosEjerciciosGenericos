@@ -1,4 +1,4 @@
-package generico_1;
+package Alumno;
 
 import java.util.Objects;
 

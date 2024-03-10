@@ -1,4 +1,4 @@
-package generico_1;
+package Alumno;
 
 public class Utils {
 
